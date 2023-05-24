@@ -9,7 +9,7 @@ nav: true
 
 Current interns:
 
-- 2023.05 -- present, [Hao Chen](https://scholar.google.com/citations?hl=en&user=tktqkhwAAAAJ&view_op=list_works&sortby=pubdate), PhD @ Carniege Mellon University.
+- 2023.05 -- present, [Hao Chen](https://scholar.google.com/citations?hl=en&user=tktqkhwAAAAJ&view_op=list_works&sortby=pubdate), PhD @ Carnegie Mellon University.
 - 2023.03 -- present, Kaijie Zhu, Master @ Institute of Automation, CAS.
 
 Alumni:
@@ -17,7 +17,7 @@ Alumni:
 - 2023.03 -- 2023.04, Lu Tan, Master @ Tsinghua University.
 - 2022.10 -- 2023.03, [Xixu Hu](https://xixuhu.github.io/), Ph.D @ City University of Hong Kong.
 - 2022.07 -- 2023.03, [Runkai Zheng](https://scholar.google.com/citations?user=52haRQ0AAAAJ&hl=en), Master @ Chinese University of Hong Kong (Shenzhen).
-- 2021.11 -- 2022.10, [Yidong Wang](https://qianlanwyd.github.io/), Master @ Tokyo Institute of Technology. Now: starts his Ph.D in PKU. 
+- 2021.11 -- 2022.10, [Yidong Wang](https://qianlanwyd.github.io/), Master @ Tokyo Institute of Technology. Now: Ph.D in PKU. [[MSRA official blog](https://www.msra.cn/zh-cn/news/outreach-articles/%e5%ae%9e%e4%b9%a0%e6%b4%be%ef%bd%9c%e7%8e%8b%e4%b8%80%e6%a0%8b%ef%bc%9a%e4%b8%bb%e5%8a%a8%e5%b0%b1%e4%bc%9a%e6%9c%89%e6%95%85%e4%ba%8b%ef%bc%81%e9%ab%98%e6%95%88%e7%a7%91%e7%a0%94%e7%a7%98%e8%af%80)]
   - Topics: semi-supervised learning, long-tail learning.
   - Publications during internship: NeurIPS'22, ACML'22, COLING'22
 - 2021.06 -- 2021.11, [Wang Lu](https://scholar.google.com.hk/citations?user=r0C8zaMAAAAJ&hl=zh-CN), Ph.D @ ICT, Chinese Academy of Sciences. Now: continue his Ph.D in ICT.

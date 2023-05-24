@@ -12,7 +12,8 @@ nav: true
 
 #### Invited talks
 
-- Invited talk: **Robust machine learning for responsible AI**, at Hefei University of Technology. Mar. 2023.
+- Invited talk: **Safe, efficient, and generalizable transfer learning**, at NCIIP 2023. Changchun. May 2023.
+- Invited talk: **Robust machine learning for responsible AI**, at Hefei University of Technology. Mar. 2023. [[video at Bilibili](https://www.bilibili.com/video/BV1184y1M7V4/)]
 - Invited talk: **Building robust machine learning models**, at MLNLP community. Sep. 2022. [[Video & PDF](https://www.bilibili.com/video/BV1hP411V7SP/)]
 - Invited talk: **Transfer learning: low-resource, generalization, and safety**, at AI Time. Apr. 2022. [[PDF](../assets/files/l16_aitime.pdf)] [[Video](https://www.bilibili.com/video/BV1nY411E7Uc/)] [[Zhihu](https://zhuanlan.zhihu.com/p/498902783)]
 - Invited talk: **Recent advance in transfer learning**, at Jiqizhixin. Jun. 2021.
@@ -24,6 +25,7 @@ nav: true
 
 #### Invited Course
 
+- Invited course: **Transfer learning**, at Institute of Computing Technology, CAS. 2023.
 - Invited course: **Transfer learning**, at Tsinghua University. Dec. 2019. (THU's
                     advanced machine learning course for EE graduates) [[Class photo](http://jd92.wang/image/img_thu.png)]
 - Invited course: **Transfer learning**, at Leiphone, online. Nov. 4, 2017.
