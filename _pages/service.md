@@ -13,6 +13,8 @@ nav: true
   - IJCAI 2019 Publicity co-chair
   - ICDM 2019 transfer learning session chair
 - Conference senior member/area chair:
+  - NeurIPS 2023 Area Chair for Dataset and Benchmark track
+  - AAAI 2023 senior PC
   - IJCAI 2023 senior PC
   - AAAI 2023 senior PC
 - Conference PC member: 
