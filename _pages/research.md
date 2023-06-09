@@ -17,8 +17,9 @@ Our research consists of the following topics with selected publications: [[View
 ##### New: large models
 
 - [arXiv'23] [PromptBench: Towards Evaluating the Robustness of Large Language Models on Adversarial Prompts](https://arxiv.org/abs/2306.04528). Kaijie Zhu, Jindong Wang, Jiaheng Zhou, Zichen Wang, Hao Chen, Yidong Wang, Linyi Yang, Wei Ye, Neil Zhenqiang Gong, Yue Zhang, Xing Xie. [[code](https://github.com/microsoft/promptbench)]
+- [arXiv'23] [PandaLM: An Automatic Evaluation Benchmark for LLM Instruction Tuning Optimization](https://arxiv.org/abs/2306.05087). Yidong Wang, Zhuohao Yu, Zhengran Zeng, Linyi Yang, Cunxiang Wang, Hao Chen, Chaoya Jiang, Rui Xie, Jindong Wang, Xing Xie, Wei Ye, Shikun Zhang, Yue Zhang. [[code](https://github.com/WeOpenML/PandaLM)]
 - **[ICLR'23 large model workshop]** [On the Robustness of ChatGPT: An Adversarial and Out-of-distribution Perspective](https://arxiv.org/abs/2302.12095). Jindong Wang, Xixu Hu, Wenxin Hou, Hao Chen, Runkai Zheng, Yidong Wang, Linyi Yang, Haojun Huang, Wei Ye, Xiubo Geng, Binxin Jiao, Yue Zhang, and Xing Xie.
-- - **[arXiv'23]** [Exploring Vision-Language Models for Imbalanced Learning](https://arxiv.org/abs/2304.01457). Yidong Wang, Zhuohao Yu, Jindong Wang, Qiang Heng, Hao Chen, Wei Ye, Rui Xie, Xing Xie, Shikun Zhang. [[code](https://github.com/Imbalance-VLM/Imbalance-VLM)]
+- [arXiv'23] [Exploring Vision-Language Models for Imbalanced Learning](https://arxiv.org/abs/2304.01457). Yidong Wang, Zhuohao Yu, Jindong Wang, Qiang Heng, Hao Chen, Wei Ye, Rui Xie, Xing Xie, Shikun Zhang. [[code](https://github.com/Imbalance-VLM/Imbalance-VLM)]
 
 ##### Out-of-distribution (Domain) generalization and adaptation for distribution shift
 
