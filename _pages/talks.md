@@ -12,6 +12,7 @@ nav: true
 
 #### Invited talks
 
+- Invited talk: **Towards robustness research in the era of large models**, at Southern University of Science Technology (Sustech), Shenzhen. June 2023.
 - Invited talk: **Safe, efficient, and generalizable transfer learning**, at NCIIP 2023. Changchun. May 2023.
 - Invited talk: **Robust machine learning for responsible AI**, at Hefei University of Technology. Mar. 2023. [[video at Bilibili](https://www.bilibili.com/video/BV1184y1M7V4/)]
 - Invited talk: **Building robust machine learning models**, at MLNLP community. Sep. 2022. [[Video & PDF](https://www.bilibili.com/video/BV1hP411V7SP/)]
