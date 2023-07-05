@@ -22,7 +22,7 @@ Alumni:
   - Publications during internship: NeurIPS'22, ACML'22, COLING'22
 - 2021.06 -- 2021.11, [Wang Lu](https://scholar.google.com.hk/citations?user=r0C8zaMAAAAJ&hl=zh-CN), Ph.D @ ICT, Chinese Academy of Sciences. Now: continue his Ph.D in ICT.
   - Topics: domain generalization, federated learning, transfer learning.
-  - Publications during internship: TKDE'22, TMLR'22, Ubicomp'22, IEEE TBD'22, ICASSP'22, IJCAI'22 workshop.
+  - Publications during internship: ICLR'23, TKDE'22, TMLR'22, Ubicomp'22, IEEE TBD'22, ICASSP'22, IJCAI'22 workshop. National scholarship.
 - 2020.12 -- 2021.05, [Wenxin Hou](https://houwx.net), Master @ Tokyo Institute of Technology. Now: SDE at Microsoft.
   - Topics: speech recognition, semi-supervised learning.
   - Publications during internship: NeurIPS'21, TASLP'22, Interspeech'21.
@@ -34,8 +34,7 @@ Alumni:
 
 #### Collaborating students
 
-- Ph.D students at ICT, CAS: Xin Qin, Wang Lu, Yuxin Zhang.
-- Master student at Tsinghua University: Lu Tan.
+- Ph.D students at ICT, CAS: Xin Qin (Ubicomp, KDD, national scholarship), Wang Lu, Yuxin Zhang.
 - Ph.D student at Institute of Acoustics, CAS: Han Zhu.
 - Ph.D student at Carnegie Mellon University: Hao Chen.
 - Master/Ph.D students at Institute of Automation, CAS: YiFan Zhang, Kaijie Zhu.
