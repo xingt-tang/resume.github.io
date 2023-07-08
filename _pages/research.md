@@ -58,6 +58,7 @@ Our research consists of the following topics with selected publications: [[View
 ##### Safe transfer learning for security
 
 - **[ICSE'22]** [ReMoS: Reducing Defect Inheritance in Transfer Learning via Relevant Model Slicing](https://jd92.wang/assets/files/icse22-remos.pdf). Ziqi Zhang, Yuanchun Li, Jindong Wang, Bingyan Liu, Ding Li, Xiangqun Chen, Yao Guo, and Yunxin Liu.
+- **[IEEE Data Engineering Bulletin'23]** FedCLIP: Fast Generalization and Personalization for CLIP in Federated Learning. Wang Lu, Xixu Hu, Jindong Wang, Xing Xie. [[arxiv](https://arxiv.org/abs/2302.13485)]
 - **[IEEE TBD'22]** [Personalized Federated Learning with Adaptive Batchnorm for Healthcare](https://arxiv.org/abs/2112.00734). Wang Lu, Jindong Wang, Yiqiang Chen, Xin Qin, Renjun Xu, Dimitrios Dimitriadis, and Tao Qin.
 - **[TKDE'22]** [Unsupervised deep anomaly detection for multi-sensor time-series signals](https://arxiv.org/abs/2107.12626). Yuxin Zhang, Yiqiang Chen, Jindong Wang, and Zhiwen Pan.
 - **[IntSys'22, 400+ citations]** [Fedhealth: A federated transfer learning framework for wearable healthcare](https://ieeexplore.ieee.org/document/9076082). Yiqiang Chen, Xin Qin, Jindong Wang, Chaohui Yu, and Wen Gao. 
