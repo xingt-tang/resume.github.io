@@ -7,6 +7,7 @@ nav: true
 
 #### Tutorials
 
+- Tutorial at KDD 2023: **Trustworthy machine learning: robustness, generalization and interpretability**, Aug., 2023. [[Website&Slides](https://mltrust.github.io/)]
 - Tutorial at WSDM 2023: **On the robustness of ChatGPT and NLP Foundation models: an adversarial and OOD perspective**, Feb., 2023. [[PDF](https://dgresearch.github.io/DG_tutorial_wsdm23_chatgpt.pdf)] [[More](https://dgresearch.github.io/)]
 - Tutorial at IJCAI 2022: **A Tutorial on Domain Generalization**, July, 2022. [[website](https://dgresearch.github.io/)]
 
