@@ -10,10 +10,11 @@ nav: true
 Current interns:
 
 - 2023.05 -- present, [Hao Chen](https://scholar.google.com/citations?hl=en&user=tktqkhwAAAAJ&view_op=list_works&sortby=pubdate), PhD @ Carnegie Mellon University.
-- 2023.06 -- present, Yachuan Liu, PhD @ University of Michigan, Ann Arbor.
+- 2023.09 -- present, Cheng Li, master @ Institute of Software, CAS.
 
 Alumni:
 
+- 2023.06 -- 2023.09, Yachuan Liu, PhD @ University of Michigan, Ann Arbor.
 - 2023.03 -- 2023.06, Kaijie Zhu, Master @ Institute of Automation, CAS.
   - Topics: adversarial machine learning and large language language models.
   - Outcomes during internship: ICCV'23, [PromptBench](https://github.com/microsoft/promptbench), [Project SearchAnything](https://github.com/Immortalise/SearchAnything).
