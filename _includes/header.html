@@ -1,11 +1,11 @@
 <header>
-    
+
     <script>
 var _hmt = _hmt || [];
 (function() {
   var hm = document.createElement("script");
   hm.src = "https://hm.baidu.com/hm.js?29274d0e68415cd4179a801ea4abf7cb";
-  var s = document.getElementsByTagName("script")[0]; 
+  var s = document.getElementsByTagName("script")[0];
   s.parentNode.insertBefore(hm, s);
 })();
 </script>
@@ -35,7 +35,7 @@ var _hmt = _hmt || [];
           <!-- About -->
           <li class="nav-item {% if page.title == 'about' %}active{% endif %}">
             <a class="nav-link" href="{{ '/' | relative_url }}">
-              about
+              About
               {% if page.title == "about" %}
                 <span class="sr-only">(current)</span>
               {% endif %}
@@ -52,6 +52,18 @@ var _hmt = _hmt || [];
             </a>
           </li>
           {% endif %}
+            <li class="nav-item {% if page.url contains 'news' %}active{% endif %}">
+                <a class="nav-link" href="#news">News</a>
+            </li>
+            <li class="nav-item {% if page.url contains 'hightlight' %}active{% endif %}">
+                <a class="nav-link" href="#highlights">Highlights</a>
+            </li>
+            <li class="nav-item {% if page.url contains 'publications' %}active{% endif %}">
+                <a class="nav-link" href="#publications">Publications</a>
+            </li>
+            <li class="nav-item {% if page.url contains 'service' %}active{% endif %}">
+                <a class="nav-link" href="#service">Service</a>
+            </li>
           <!-- Other pages -->
           {% assign sorted_pages = site.pages | sort: "title" %}
           {% for p in sorted_pages %}
