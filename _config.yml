@@ -102,7 +102,7 @@ collections:
     permalink: /news/:path/
 
 news_scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-news_limit: 6 # leave blank to include all the news in the `_news` folder
+news_limit: 10 # leave blank to include all the news in the `_news` folder
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -123,12 +123,12 @@ kramdown:
       start_line: 1
 
 # Includes & excludes
-include: ['_pages']
+include: ['_pages']ß
 exclude:
   - bin
   - Gemfile
   - Gemfile.lock
-  - vendor
+  - vendorƒ
 keep_files:
   - CNAME
   - .nojekyll
