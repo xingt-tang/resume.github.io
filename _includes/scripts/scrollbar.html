@@ -6,18 +6,16 @@
     return document.querySelector(`.${className}`);
   }
   const sections = [
-    selectElementById('about'),
-    selectElementById('news'),
-    selectElementById('highlights'),
-    selectElementById('publications'),
     selectElementById('services'),
+    selectElementById('publications'),
+    selectElementById('news'),
+    selectElementById('about'),
   ];
 
   const navItems = {
     about: selectElementByClass('aboutNavItem'),
     services: selectElementByClass('servicesNavItem'),
     news: selectElementByClass('newsNavItem'),
-    highlights: selectElementByClass('highlightsNavItem'),
     publications: selectElementByClass('publicationsNavItem'),
   };
 
