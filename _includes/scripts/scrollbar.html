@@ -6,10 +6,10 @@
     return document.querySelector(`.${className}`);
   }
   const sections = [
-    selectElementById('services'),
-    selectElementById('publications'),
-    selectElementById('news'),
     selectElementById('about'),
+    selectElementById('news'),
+    selectElementById('publications'),
+    selectElementById('services'),
   ];
 
   const navItems = {
@@ -21,8 +21,8 @@
 
   // intersection observer setup
   const observerOptions = {
-    root: null,
-    rootMargin: '0px',
+    root: document.querySelector('.container.mt-5'),
+    rootMargin: '48px',
     threshold: 0.7,
   };
 
