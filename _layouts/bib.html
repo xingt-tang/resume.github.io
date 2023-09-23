@@ -34,17 +34,17 @@
               {% endif %}
             {% endfor %}
           {% endif %}
-          
+
           {% if forloop.length == 1 %}
             {% if author_is_self %}
               {% if entry.corr %}
-                <em><b>{{author.first}} {{author.last}}</b></em><sup>#</sup>
+                <em><b>{{author.first}} {{author.last}}</b></em><sup>*</sup>
               {% else %}
                 <em><b>{{author.first}} {{author.last}}</b></em>
               {% endif %}
             {% else %}
               {% if entry.corr %}
-                <em><b>{{author.first}} {{author.last}}</b></em><sup>#</sup>
+                <em><b>{{author.first}} {{author.last}}</b></em><sup>*</sup>
               {% else %}
                 <em><b>{{author.first}} {{author.last}}</b></em>
               {% endif %}
@@ -139,7 +139,7 @@
         {% if entry.video %}
           <a href="{{ entry.video }}" style="padding-top: 0em; padding-bottom: 0px;">Video</a>
         {% endif %}
-    
+
         {% if entry.zhihu %}
           <a href="{{ entry.zhihu }}" style="padding-top: 0em; padding-bottom: 0px;">Zhihu</a>
         {% endif %}
@@ -155,7 +155,7 @@
     <!-- {% if entry.abstract %}
       <a class="abstract btn btn-sm z-depth-0" role="button" style="padding-top: 0em; padding-bottom: 0px;">Abs</a>
     {% endif %} -->
-    
+
     <!-- </div> -->
 
     <!-- Hidden abstract block -->
