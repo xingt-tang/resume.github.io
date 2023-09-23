@@ -4,4 +4,4 @@ date: 2023-09-22
 inline: true
 ---
 
-An paper accepted by Neurips 2023
+A paper about feature interaction for deep sparse network is accepted by Neurips 2023.
