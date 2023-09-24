@@ -8,6 +8,14 @@ p, h1, h2, h3, h4, h5, h6, em, div, li, span, strong {
   color: var(--global-text-color);
 }
 
+h4 {
+  margin-bottom: 14px;
+}
+
+h5 {
+  margin-bottom: 10px;
+}
+
 hr {
   border-top: 1px solid var(--global-divider-color);
 }
@@ -574,6 +582,7 @@ html.transition *:after {
 .annotation {
   color: var(--global-text-color-light);
   font-size: 0.875rem;
+  margin-left: 8px;
 
   sup {
     color: var(--global-text-color);

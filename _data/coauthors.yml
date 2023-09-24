@@ -1,8 +1,8 @@
 "Fuyuan":
-  - firstname: ["Lyu"]
+  - firstname: ["Lyu", "Lyu*"]
     url: https://fuyuanlyu.github.io
 
 "Dugang":
-  - firstname: ["Liu"]
+  - firstname: ["Liu", "Liu*"]
     url: https://dgliu.github.io
 
