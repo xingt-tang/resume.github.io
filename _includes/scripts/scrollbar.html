@@ -28,7 +28,8 @@
 
   function observerCallback(entries, observer) {
     entries.forEach((entry) => {
-      if (entry.intersectionRatio > 0.7) {
+      if (entry.isIntersecting) {
+        console.log(entry)
         // get the nav item corresponding to the id of the section
         // that is currently in view
         const navItem = navItems[entry.target.id];
