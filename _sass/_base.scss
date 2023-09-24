@@ -569,3 +569,13 @@ html.transition *:after {
   font-size: 0.875rem;
   padding-top: 0.25rem;
 }
+
+
+.annotation {
+  color: var(--global-text-color-light);
+  font-size: 0.875rem;
+
+  sup {
+    color: var(--global-text-color);
+  }
+}
