@@ -16,7 +16,7 @@ social: true  # includes social icons at the bottom of the page
 
 Senior Researcher, Tencent<br>
 xing.tang [at] hotmail.com, shawntang [at] tencent.com<br>
-[Google scholar](https://scholar.google.com/citations?user=rtRexdQAAAAJ) | [DBLP](https://dblp.org/pid/09/2824-7.html) | [OpenReview] (https://openreview.net/profile?id=~Xing_Tang2) | [Github](https://github.com/xingt-tang) 
+[Google scholar](https://scholar.google.com/citations?user=rtRexdQAAAAJ) | [DBLP](https://dblp.org/pid/09/2824-7.html) | [OpenReview](https://openreview.net/profile?id=~Xing_Tang2) | [Github](https://github.com/xingt-tang) 
 
 Dr. Xing Tang is currently a Senior Researcher at Tencent. He obtained his Ph.D from Computer Applied Technology, Xidian University in 2016, under supervision of [Prof. Qiguang Miao](https://web.xidian.edu.cn/qgmiao/). After graduation, He joined [Huawei Noah'Ark Lab](https://www.noahlab.com.hk/#/home), worked with [Dr.Xiuqiang He](https://scholar.google.com/citations?user=3lprwmsAAAAJ) and [Dr.Ruiming Tang](https://scholar.google.com/citations?user=fUtHww0AAAAJ). He also worked in [Tencent ARC Lab](https://arc.tencent.com/en/index) with [Dr.Yingshan](https://scholar.google.com/citations?user=4oXBp9UAAAAJ) for a while. Now he works for FiT, Tencent and focus on recommendation and advertisement of financial scenario. His research interest mainly focus on building industrial-scale recommender system, online advertising for financial product and online marketing for industrial product. 
 
