@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-05-28
+date: 2024-03-11
 inline: true
 ---
 
-I will serve as PC member for CIKM 2023.
+I will serve as PC member for CIKM 2024 and IEEE BigData'24.
