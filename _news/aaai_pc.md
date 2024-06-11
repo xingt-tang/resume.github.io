@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-07-28
+date: 2024-06-11
 inline: true
 ---
 
-I will serve as PC member for AAAI 2024.
+I will serve as PC member for AAAI 2025.
