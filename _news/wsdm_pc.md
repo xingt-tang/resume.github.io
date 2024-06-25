@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-07-10
+date: 2023-06-23
 inline: true
 ---
 
-I will serve as PC member for WSDM 2024.
+I will serve as PC member for WSDM 2025.
