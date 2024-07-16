@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2023-07-26
+date: 2024-07-16
 inline: true
 ---
 
-One paper about debias for multimedia recommendation is accepted by MM 2023.
+One paper about compression for federated learning is accepted by MM 2024.
