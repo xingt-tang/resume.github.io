@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2024-02-20
+date: 2024-12-20
 inline: true
 ---
-I will serve as PC member for ECML-PKDD 2024.
+I will serve as PC member for ECML-PKDD 2025.
