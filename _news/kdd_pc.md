@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-07-08
+date: 2024-12-24
 inline: true
 ---
 
-I will serve as PC member for KDD 2025.
+I am recognized as a outstanding reviewer for KDD 2025 ADS track (August Cycle).
