@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2024-12-24
+date: 2025-01-13
 inline: true
 ---
 
-I am recognized as a outstanding reviewer for KDD 2025 ADS track (August Cycle).
+I will serve as AC for KDD 2025 ADS track and PC member for KDD 2025 Research track (Febrary Cycle).
